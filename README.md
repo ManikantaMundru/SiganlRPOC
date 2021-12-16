@@ -1,1 +1,1 @@
-# SiganlRPOC
+# SiganlRPOC - Need azure signalR connection string and tokens
